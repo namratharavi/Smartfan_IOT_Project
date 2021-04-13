@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "982356722454",
+    "firebase_url": "https://smartfan-e6d2c.firebaseio.com",
+    "project_id": "smartfan-e6d2c",
+    "storage_bucket": "smartfan-e6d2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982356722454:android:4ce59e489f481fa8",
+        "android_client_info": {
+          "package_name": "com.example.dell.smarfan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982356722454-kt8fh0kfipe2cj67nejua1psube8ud0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.smarfan",
+            "certificate_hash": "da379c2a69cfff41e3871a8ca10b713788d3503f"
+          }
+        },
+        {
+          "client_id": "982356722454-glrb10b9nem7jc1tfnkm0j24skhq4mlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_dU8_vWE3RauA2DSfy4K0YSVygjHKMls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982356722454-glrb10b9nem7jc1tfnkm0j24skhq4mlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
